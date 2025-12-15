@@ -58,7 +58,7 @@ python setup.py install
 
 # install PyTorch Detection
 cd $INSTALL_DIR
-git clone https://github.com/missyoudaisy/
+git clone https://github.com/missyoudaisy/DuoNet.git
 cd DuoNet
 
 # the following will install the lib with
